@@ -1,8 +1,17 @@
 # Address Book
-## Back End
+
+An address book application created using node and postgreSQL on the backend and React, Vue and Angular on the front end.
+
+## Tech Stack
+
 - Node
 - PostgreSQL
-## Front End
 - React
 - Vue
 - Angular
+- Typescript
+- Docker
+
+## How to run
+
+TBA
